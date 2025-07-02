@@ -6,7 +6,7 @@
 
 ## 使い方
 1.  ディレクトリに「main.py」「experiment-filesフォルダ」「resultsフォルダ」を追加
-2.  experiment フォルダに実験データを格納
+2.  experiment-files フォルダに実験データを格納
 3.  「main.py」を実行
 
 ## ソースの最終更新
